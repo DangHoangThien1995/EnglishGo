@@ -113,9 +113,9 @@ npm start
 ```
 
 ## Authors
- &nbsp; Dang Hoang Thien <danghoangthien.hcmus@gmail.com> - Interns at GPAT Company
- &nbsp;&nbsp;&nbsp; Tran Duc Thanh <tdthanh95@gmail.com> - Interns at GPAT Company
- &nbsp;&nbsp;&nbsp; Nguyen Hoang Nam <hoangnam2261@gmail.com> - Interns at GPAT Company
+ &nbsp; Dang Hoang Thien <danghoangthien.hcmus@gmail.com> - Interns at GPAT Company<br />
+ &nbsp; Tran Duc Thanh <tdthanh95@gmail.com> - Interns at GPAT Company<br />
+ &nbsp; Nguyen Hoang Nam <hoangnam2261@gmail.com> - Interns at GPAT Company
 # License
 &nbsp;This project is licensed under the MIT License
 
